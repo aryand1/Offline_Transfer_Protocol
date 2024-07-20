@@ -1,6 +1,4 @@
-Here's an SEO-optimized `README.md` file with emojis for the `OneTimeCodeStore.java` code:
 
----
 
 # 🗝️ One-Time Code Store in Java
 
