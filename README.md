@@ -24,7 +24,7 @@ Welcome to the **Offline_Transfer_Protocol** Java project! This repository provi
 
 3. **Compile the Java Files:**
    ```bash
-   javac OneTimeCodeStore.java OneTimeCodeDemo.java
+   javac OneTimeCodeStore.java OneTimeCodeDemo.java CardData.java
    ```
 
 4. **Run the Demo Program:**
